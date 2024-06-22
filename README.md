@@ -7,7 +7,9 @@ Deep HDR Imaging via A Non-Local Network
 ##成员及分工
 
 王文子正：算法研究、代码实现、视频录制
+
 朱浩然：算法研究、PPT制作、视频录制
+
 王晨曦：代码实现协助、报告编写、视频录制
 
 ##B站视频链接
